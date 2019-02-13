@@ -24,47 +24,15 @@ Sometimes writing some small utilities for personal usage.
     + Description  
         + Collaborate with peers (firmware engineers and hardware engineers) on communications to run the project.
         + Tech stacks: C# (WPF), Databases (MSSQL, SQLite), Platforms (GitHub), Git.  
-+ System Administrator  
-    + Department of Computer Science, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + August 2013 – July 2015 (2 years)  
-    + Description  
-        + Linux Team, PC Team, BBS Team, Web Team.  
-+ Undergraduate Teaching Assistant  
-    + Department of Computer Science, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + February 2015 – June 2015 (5 months)  
-    + Description  
-        + Network Administration Course  
-+ Undergraduate Teaching Assistant  
-    + Department of Computer Science, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + September 2014 – January 2015 (5 months)  
-    + Description  
-        + System Administration Course  
-+ Director of Information Technology  
-    + OpenHouse, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + September 2013 – May 2014 (9 months)  
-    + Description  
-        + Maintaining Web, FTP, BBS, Mail server, writing new features for production websites and fixing hardware issues of PCs.  
-+ Information Technology  
-    + OpenHouse, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + September 2012 – May 2013 (9 months)  
-    + Description  
-        + Support director for maintaining the Web, FTP, BBS, Mail server and fixing  
-some hardware problems of PCs.  
-+ Part-time Employee  
-    + Information Technology Service Center, National Chiao Tung University, Hsinchu County/City, Taiwan  
-    + September 2012 – January 2013 (5 months)  
-    + Description  
-        + Using PHP for a NCTU freshmen coding competition registration system.  
-  
 ---  
   
 ###  Education  
   
-+ National Chiao Tung University (2011  –  2015)  
-    + Bachelor's Degree, Computer Science  
-    + I also took an additional program "Information and Communication Security Credit Programme".  
-    + Activities and Societies: Network Benefit Association  
-  
++ National Taipei University of Technology (2015  –  2017)  
+    + Master's Degree, Science in Engineering  
+    
++ Ming Chuan University (2011  –  2015)  
+    + Bachelor's Degree, Health Administration  
 ---  
   
 ###  Skills  
